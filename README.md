@@ -11,7 +11,8 @@ There is 4 types of branches that I am going to implement including the main bra
     Develop branch: This is the branch that is going to be used the mos often, because of the changes of the project. After every section of the code will push and there will be a short or brief discription of the changes that was made.
 
 ## provide a diagram explaining project and repository context and how they are integrated
-    ![image](https://user-images.githubusercontent.com/68374034/185211357-ae663211-90f2-410c-9e1c-3a657d297e4c.png)
+![image](https://user-images.githubusercontent.com/68374034/185211357-ae663211-90f2-410c-9e1c-3a657d297e4c.png)
+
 ## Use of a .gitignore file
     The .gitignore file tells Git which files to ignore when committing your project to the GitHub repository.
 
